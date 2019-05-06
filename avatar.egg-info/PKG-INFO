@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: avatar
+Version: 0.1
+Summary: 获取单个用户的CSDN画像数据
+Home-page: https://github.com/wligang/avatars
+Author: Ligang.Wang
+Author-email: wlgchun@163.com
+License: PSF
+Description: UNKNOWN
+Keywords: 获取csdn的用户画像数据
+Platform: UNKNOWN

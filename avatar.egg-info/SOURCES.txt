@@ -1,0 +1,8 @@
+setup.py
+avatar/blog.py
+avatar.egg-info/PKG-INFO
+avatar.egg-info/SOURCES.txt
+avatar.egg-info/dependency_links.txt
+avatar.egg-info/requires.txt
+avatar.egg-info/top_level.txt
+test/test.py
