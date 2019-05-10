@@ -1,7 +1,7 @@
 # avatar-data-python
 avatar项目使用python爬取csdn的数据的模块
 
-后端支持是基于Java的项目[Avatar](https://github.com/wligang/avatar)
+后端支持是基于Java的项目[Avatar](https://github.com/wligang/avatars)
 
 ## 说明
  avatar-data-python工程是一个可独立运行在windos或者Linux上的一个python爬虫工具，在本项目中，主要目的是为了爬去CSDN的用户数据。
